@@ -18,7 +18,6 @@ function Counter(props) {
 }
 
 
-
 function mapStateToProps(state)
 {
     console.log(state.count);
